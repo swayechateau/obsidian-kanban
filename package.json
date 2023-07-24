@@ -1,6 +1,6 @@
 {
   "name": "obsidian-kanban-plugin",
-  "version": "1.53.0",
+  "version": "1.5.3",
   "description": "This is a kanban board plugin for Obsidian (https://obsidian.md)",
   "main": "main.js",
   "scripts": {
